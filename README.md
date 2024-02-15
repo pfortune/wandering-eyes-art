@@ -1,6 +1,6 @@
 # Wondering Eyes Visual Art Piece
 
-![Wondering Eyes](wonderingeyes.png)
+![Wandering Eyes](wanderingeyes.png)
 
 ## Brief Description
 This visual art piece is a captivating display created using Processing 4 and Java, designed to generate a random grid filled with colourful nested shapes. The assortment includes squares, arcs, pause buttons, circles, and windows, each contributing to the overall dynamism of the piece. A unique feature of this program is the addition of eyes within the grid that track the movement of the mouse cursor, adding an interactive layer to the artwork. The position of the pupils within the irises adjusts in real-time based on the mouse's location, enhancing the visual experience with interactive elements responsive to user input.
