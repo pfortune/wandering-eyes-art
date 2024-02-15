@@ -1,4 +1,4 @@
-# Wondering Eyes Visual Art Piece
+# Wandering Eyes Visual Art Piece
 
 ![Wandering Eyes](wanderingeyes.png)
 
